@@ -1,13 +1,15 @@
 Journal of our work
 
-commit 1: October 11th, 2022
+commit 1: October 11th, 2022 (Soumya Nasipuri)
 -----------------------------------
 Initial commit after making the README and journal text file.
 Nothing to add much to it.
 
-commit 2: October 11th, 2022
+commit 2: October 11th, 2022 (Soumya Nasipuri)
 -----------------------------------
-Added
+Added the images of the pieces needed. Also, created 2 python files needed.
+
+
 
 
 
