@@ -1,1 +1,1 @@
-"# Intelligence of Sentry" 
+# Intelligence of Sentry 
